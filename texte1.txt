@@ -1,1 +1,3 @@
-Salut ceci est mon texte numéro 1 et je le modifie depuis ma machine !
+Salut ceci est mon texte numÃ©ro 1 et je le modifie depuis ma machine !
+
+Et maintenant je le modifie depuis github !!!
